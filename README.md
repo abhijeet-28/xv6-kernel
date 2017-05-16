@@ -3,6 +3,5 @@ HoHLabs:
 ========
 
 
-Implementing features in xv6 kernel
-IIT Delhi
-COL333
+Please read the labs page on how to proceed.
+

@@ -5,13 +5,9 @@
 
 // state for your coroutine implementation:
 struct f_t{
-
-    //insert your code here
-
-    uint32_t loopindex;
-    uint32_t answer;
-
-
+	uint32_t loopindex;
+	bool flag;
+	uint32_t ans;
 };
 
 
